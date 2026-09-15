@@ -1,0 +1,10 @@
+pandas
+numpy
+torch
+transformers
+datasets
+evaluate
+seqeval
+pytorch-crf
+scikit-learn
+safetensors
