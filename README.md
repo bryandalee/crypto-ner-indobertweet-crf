@@ -1,7 +1,7 @@
 # Heuristic-Augmented Denoising in Distant Supervision for Crypto Assets Named Entity Recognition Using IndoBERTweet-CRF
 
 Code, out-of-fold predictions and analysis tables for the paper by
-Jonathan Davin, Clark Sompie, Shane Anthony, Henry Lucky, Bryan Dale and
+Jonathan Davin, Shane Anthony, Bryan Dale, Clark Sompie, Henry Lucky and
 Rifqi Charisma (Bina Nusantara University).
 
 The dataset (Gold and Silver Standard in BIO format), the Local Knowledge Base
