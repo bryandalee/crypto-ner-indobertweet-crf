@@ -1,0 +1,10 @@
+System,Invalid transitions,Tokens,Rate (%)
+Gazetteer longest-match (LKB only),0,50242,0.0
+BiLSTM-CRF,0,50242,0.0
+mBERT-CRF (gold only),0,50242,0.0
+IndoBERT-CRF (gold only),0,50242,0.0
+IndoBERTweet-CRF (gold only)  [-DS],0,50242,0.0
+"Base model, no fine-tuning     [-FT]",0,50242,0.0
+Proposed w/o denoising         [-HD],0,50242,0.0
+Proposed w/o CRF               [-CRF],0,50242,0.0
+"Proposed (IndoBERTweet-CRF, DS+HD+FT)",0,50242,0.0

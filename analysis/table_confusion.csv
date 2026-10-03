@@ -1,0 +1,4 @@
+,pred O,pred B-CRYPTO,pred I-CRYPTO
+true O,48834,203,8
+true B-CRYPTO,142,1040,0
+true I-CRYPTO,7,1,7

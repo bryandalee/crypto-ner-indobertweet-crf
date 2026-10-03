@@ -1,0 +1,13 @@
+# Large files: published on Mendeley Data (doi:10.17632/rtw4d5c6hj)
+ckpt/
+data/*
+!data/README.md
+*.bin
+*.safetensors
+*.xlsx
+
+# Local working folder of the revision
+crypto-ner(for minor revision)/
+
+__pycache__/
+.ipynb_checkpoints/

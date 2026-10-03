@@ -1,0 +1,6 @@
+Error category,Count,% of errors
+False positive: cross-domain ambiguity,203,57.34
+False negative: other,117,33.05
+False negative: no slang/jargon context,25,7.06
+Boundary error (FP side),5,1.41
+Boundary error (FN side),4,1.13

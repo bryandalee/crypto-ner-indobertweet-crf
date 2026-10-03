@@ -1,0 +1,5 @@
+Ablation,Control,F1 full,F1 ablated,Contribution,p (Holm)
+-HD  (heuristic denoising),proposed,0.8541,0.8416,0.0125,0.052
+-DS  (distant supervision),proposed,0.8541,0.8021,0.0519,<0.001
+-FT  (gold fine-tuning),proposed,0.8541,0.5905,0.2636,<0.001
+-CRF (CRF head),indobertweet_crf_gold,0.8021,0.8057,-0.0036,0.553

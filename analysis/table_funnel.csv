@@ -1,0 +1,6 @@
+Stage,Retained,Removed,% of raw
+Raw scraped corpus,46207,0,100.0
+After empty / NaN removal,46207,0,100.0
+After global noise filtering,37796,8411,81.8
+After hybrid language filtering,27835,9961,60.24
+After spam filtering,27226,609,58.92

@@ -1,0 +1,3 @@
+Subset,sentences,tokens,entities,entities_per_sentence,sentences_without_entity,unique_surface_forms
+Silver (distant supervision),25726,850987,37765,1.468,7536,1123
+Gold (manual),1461,50242,1182,0.809,847,298

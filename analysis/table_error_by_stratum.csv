@@ -1,0 +1,5 @@
+Stratum,Sentences,Gold entities,P,R,F1
+Blue-Chip,387,623,0.8728,0.947,0.9084
+Altcoin,754,438,0.7597,0.8082,0.7832
+Background,313,113,0.8936,0.7434,0.8116
+Other,7,8,1.0,1.0,1.0

@@ -1,0 +1,5 @@
+Metric,Value
+Fleiss' kappa (token),0.9654
+Entity-level F1 A1-A2,0.9858
+Entity-level F1 A1-A3,0.9489
+Entity-level F1 A2-A3,0.9638

@@ -1,10 +1,9 @@
+torch>=2.1
+transformers>=4.40
+datasets
+pytorch-crf
+seqeval
+safetensors
+scikit-learn
 pandas
 numpy
-torch
-transformers
-datasets
-evaluate
-seqeval
-pytorch-crf
-scikit-learn
-safetensors

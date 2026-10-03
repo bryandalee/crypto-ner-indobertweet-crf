@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Heuristic-Augmented Denoising in Distant Supervision for Crypto Assets Named Entity Recognition Using IndoBERTweet-CRF"
+authors:
+  - family-names: Davin
+    given-names: Jonathan
+    affiliation: Bina Nusantara University
+  - family-names: Anthony
+    given-names: Shane
+    affiliation: Bina Nusantara University
+  - family-names: Dale
+    given-names: Bryan
+    affiliation: Bina Nusantara University
+  - family-names: Sompie
+    given-names: Clark
+    affiliation: Bina Nusantara University
+  - family-names: Lucky
+    given-names: Henry
+    affiliation: Bina Nusantara University
+  - family-names: Charisma
+    given-names: Rifqi
+    affiliation: Bina Nusantara University
+repository-code: "https://github.com/SauHin/crypto-ner-indobertweet-crf"
+license: MIT
+identifiers:
+  - type: doi
+    value: 10.17632/rtw4d5c6hj
+    description: "Dataset, LKB and base model checkpoints (Mendeley Data)"
+keywords:
+  - named entity recognition
+  - crypto assets
+  - distant supervision
+  - IndoBERTweet-CRF
+  - Indonesian Twitter
